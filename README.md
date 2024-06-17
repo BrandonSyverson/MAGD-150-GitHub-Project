@@ -1,5 +1,6 @@
 # MAGD-150-GitHub-Project  
 GitHub project for MAGD 150  
+All files made in p5.js
 
 ##syversonAssignment5.zip
 **Interactive Television Set**
