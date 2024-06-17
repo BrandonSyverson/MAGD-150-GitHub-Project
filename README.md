@@ -2,6 +2,12 @@
 GitHub project for MAGD 150  
 All files made in p5.js
 
+##Cube Jump.zip
+**Cube Jump**
+This is a 2D platformer where the player must avoid spikes and use platforms in order to travel as far as possible and gain points.
+_https://editor.p5js.org/B.Syverson1337/sketches/yyVR0x1xj_
+_https://syversonbl27.itch.io/cube-jump_
+
 ##syversonAssignment5.zip
 **Interactive Television Set**
 This is an interactive television which lets you turn on, turn off, and change the channels of the TV.  
